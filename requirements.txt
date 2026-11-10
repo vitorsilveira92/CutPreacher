@@ -1,0 +1,4 @@
+anthropic>=0.80
+faster-whisper>=1.1
+yt-dlp[default]
+opencv-python-headless>=4.8,<5
